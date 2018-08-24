@@ -13,18 +13,20 @@ First, clone the repository by executing the following command in console:
 ```
 git clone https://github.com/JonatanOrdonez/psl-minesweeper.git
 ```
-Next, we enter the cloned repository folder and go to the runnable folder:
+Next, enter to the cloned repository folder and go to the runnable folder:
 ```
 cd psl-minesweeper/runnable
 ```
-Finally, we enter the following command to execute `run.jar` that is in the folder:
+Finally, enter the following command to execute `run.jar` that is in the folder:
 ```
 java -jar run.jar
 ```
 Something like the following image should appear:
+
 ![](imgs/img1.PNG)
 
 The complete game can be seen in the following image:
+
 ![](imgs/img.PNG)
 
 ### Enjoy the game!!!
