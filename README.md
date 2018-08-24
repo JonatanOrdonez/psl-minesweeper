@@ -1,13 +1,15 @@
 ## psl-minesweeper
 
-#### **Autor:** Jonatan Ordoñez Burbano
-#### **E-mail:** jonatan-ordonez@hotmail.com
+### **Autor:** Jonatan Ordoñez Burbano
+### **E-mail:** jonatan-ordonez@hotmail.com
 
 ### Description
+
 This project was developed in Java 8 using the libraries of JUnit Test 4.
 
 ### How to play?
-First, it's necessary to clone the repository by executing the following command in console:
+
+First, clone the repository by executing the following command in console:
 ```
 git clone https://github.com/JonatanOrdonez/psl-minesweeper.git
 ```
